@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: http://pkvgamess.spending.jp/sitemap.xml
